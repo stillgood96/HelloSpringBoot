@@ -7,7 +7,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api/get")
-public class GetApiController {
+public class   GetApiController {
 
 
     // GET 방법1
