@@ -1,6 +1,4 @@
-package com.example.hello.ioc;
-
-import java.util.Base64;
+package com.example.hello.di;
 
 public class Encoder {
     private IEncoder iEncoder;

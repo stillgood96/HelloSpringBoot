@@ -1,4 +1,4 @@
-package com.example.hello.ioc;
+package com.example.hello.di;
 
 
 public class Main {
